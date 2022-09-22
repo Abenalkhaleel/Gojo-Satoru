@@ -24,7 +24,7 @@ global.premium = ['967736313172']
 global.ownernomer = '967736313172'
 global.ownername = '(المـطـور)'
 global.botname = '(بـوت ابـن الخليـل)'
-global.footer = '©NexusNwInc.'
+global.footer = '{ابـن الخليـل}'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://abenalkhaleel77.blogspot.com/?m=1'
